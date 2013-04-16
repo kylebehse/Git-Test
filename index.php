@@ -5,6 +5,6 @@
 	</head>
 	
 	<body>
-		<p>Some content.</p>
+		<p>Some content. Master.</p>
 	</body>
 </html>
