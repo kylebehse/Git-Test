@@ -11,5 +11,6 @@
 		<p>This is a conflict.</p>
 		<p>Another line of text.</p>
 		<p>Try another commit.</p>
+		<p>We can do this again.</p>
 	</body>
 </html>
