@@ -1,0 +1,52 @@
+/*
+fonts.css from the YUI Library: developer.yahoo.com/yui/
+Please refer to developer.yahoo.com/yui/fonts/ for font sizing percentages
+*/
+body { font:100% sans-serif; *font-size:small; *font:x-small; line-height:1.22; }
+table { font-size:inherit; font:100%; }
+select, input, textarea { font:99% sans-serif; }
+a:focus {
+	outline: none;
+}
+hr {
+	border:0 #ccc solid;
+	border-top-width:1px;
+	clear:both;
+	height:0
+}
+h1 {
+	font-size:189%
+}
+h2 {
+	font-size:164%
+}
+h3 {
+	font-size:161.6%
+}
+h4 {
+	font-size:146.5%
+}
+h5 {
+	font-size:131%
+}
+h6 {
+	font-size:116%
+}
+
+
+@media screen and (min-width: 240px) and (max-width: 600px){
+
+  /* some CSS here */
+
+
+  body { font:120% sans-serif; *font-size:small; *font:x-small; line-height:1.22; }
+
+}
+@media screen and (min-width: 960px) and (max-width: 9999px){
+
+  /* some CSS here */
+
+
+  body { font:120% sans-serif; *font-size:small; *font:x-small; line-height:1.22; }
+
+}

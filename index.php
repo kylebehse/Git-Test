@@ -2,16 +2,16 @@
 <html>
 	<head>
 		<title>Test Title</title>
+		<link rel="stylesheet" type="text/css" media="all" href="/css/styles.css" />
 	</head>
 	
 	<body>
-		<p>Some content. Master.</p>
-		<p>Some content. Branch two.</p>
-		<p>Some content. Branch three.</p>
-		<p>This is a conflict.</p>
-		<p>Another line of text.</p>
-		<p>Try another commit.</p>
-		<p>We can do this again.</p>
-		<p>644</p>
+		<h1>1:Some content. Master.</h1>
+		<h2>Some content. Branch two.</h2>
+		<h3>Some content. Branch three.</h3>
+		<h4>4:This is a conflict.</h4>
+		<h5>Another line of text.</h5>
+		<h6>Try another commit.</h6>
+		<p>p:We can do this again.</p>
 	</body>
 </html>
